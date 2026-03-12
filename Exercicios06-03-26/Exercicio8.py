@@ -1,4 +1,4 @@
-x=int(input('Digite um numero: '))
+x=float(input('Digite um numero: '))
 
 quadrado= x * x
 

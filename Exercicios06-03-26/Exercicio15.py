@@ -1,4 +1,4 @@
-x= int(input('Digite o valor em R$: '))
+x= float(input('Digite o valor em R$: '))
 
 dobro= x*2
 
