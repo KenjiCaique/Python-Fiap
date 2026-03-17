@@ -1,5 +1,3 @@
-from jinja2.nodes import Break
-
 num = int(input('Digite um Numero: '))
 
 if num == 0:
